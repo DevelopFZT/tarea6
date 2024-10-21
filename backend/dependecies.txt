@@ -1,0 +1,5 @@
+Todo esto instalarlo como cmd
+
+npm init -y
+npm install express mysql2 dotenv soap cors
+
